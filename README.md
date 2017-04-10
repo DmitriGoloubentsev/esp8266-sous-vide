@@ -15,4 +15,5 @@ Configuration
 2) With Sous-vide you want VERY slowly yo heat up your dish to desired temperature. Since most heater appliances are way more powerful then what is required we want to switch heater on for short period (Set time for ON state) and turn it off and wait for temperature to rise. Minimum time to wait is configured and you may want to adjust it for your appliance.
 
 Cooking
+
 "Time at target" tells you time we spent at desired temperature. Check your recipe!
